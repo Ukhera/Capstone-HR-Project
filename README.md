@@ -1,2 +1,2 @@
 # Capstone-HR-Project using Python
-[![](HR Capstone Project.png)
+[![](https://github.com/Ukhera/Capstone-HR-Project/blob/main/HR%20Capstone%20Project.png)
