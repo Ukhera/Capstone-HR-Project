@@ -1,5 +1,5 @@
 # Capstone-HR-Project using Python
-[![](https://github.com/Ukhera/Capstone-HR-Project/blob/main/HR%20Capstone%20Project.png)
+
 ## Overview
 This project involves a comprehensive analysis of key factors influencing employee attrition using data-driven techniques and provide actionable insights that help organizations improve employee retention, enhance satisfaction, and optimize HR decision-making using Python.
 ## Objectives
